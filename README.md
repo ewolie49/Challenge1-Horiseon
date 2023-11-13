@@ -6,7 +6,7 @@ Repository to complete the module 1 challenge
 ## Description
 This project is the first Challenge of the bootcamp.
 It is a very good exercise to practise everything that we have been studying during this last week.
-The challenge consists on refactoring a code that has been provided to use. The visual result of the original page is good,
+The challenge consists on refactoring a code that has been provided to us. The visual result of the original page is good,
 however, the code sitting behind is not up to date with the latest accesibility requirements.
 
 It has been a challenging project as I am still getting up to speed with the basic concepts and I was struggling where to begin,
