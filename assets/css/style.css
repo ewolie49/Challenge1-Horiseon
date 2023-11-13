@@ -65,6 +65,33 @@ p {
     background-position: center;
 }
 
+/* Amended from content to section to align with http */
+section {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* creation of a class called "articles" so that we do not need to repeat all the properties 
+of the individual articles and so that it matches with the HTML file */
+.articles {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.articles img {
+    max-height: 200px;
+}
+
+.articles h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -73,13 +100,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-/* Amended from content to section to align with http */
-section {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 /* Amended from benefits to benefits-aside to align with http */
@@ -111,27 +131,6 @@ section {
     max-width: 150px;
 }
 
-
-
-/* creation of a class called "articles" so that we do not need to repeat all the properties 
-of the individual articles and so that it matches with the HTML file */
-.articles {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.articles img {
-    max-height: 200px;
-}
-
-.articles h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 /* remove of class="footer" and change for a semantic tag. I considered leaving the class="footer" as this could
 be an item that can be reused across different pages*/
