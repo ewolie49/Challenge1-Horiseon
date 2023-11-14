@@ -1,6 +1,6 @@
-# Challenge1-Horiseon
+# Horiseon Landing Page
 Repository to complete the module 1 challenge
-You can find the page in the following link: https://ewolie49.github.io/Challenge1-Horiseon/
+You can find the page in the following link: https://ewolie49.github.io/Horiseon-Landing-Page/
 
  <Your-Project-Title>
 
